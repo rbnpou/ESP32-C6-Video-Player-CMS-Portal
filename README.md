@@ -1,6 +1,8 @@
 # ESP32-C6 Video Player & CMS Portal 🎬🔋
 
-<img src="https://raw.githubusercontent.com/rbnpou/ESP32-C6-Video-Player-CMS-Portal/refs/heads/main/imagenes/01.jpg" width="500"><br>
+*Aún falta detallar mas datos en esta presentación, pero el sistema publicado es 100% funcional.*
+
+<center><img src="https://raw.githubusercontent.com/rbnpou/ESP32-C6-Video-Player-CMS-Portal/refs/heads/main/imagenes/01.jpg" width="500"></center><br>
 
 Este proyecto transforma un **ESP32-C6 con pantalla LCD de 1.47" de la marca WAVESHARE** (https://www.waveshare.com/esp32-c6-lcd-1.47.htm) en un reproductor de video MJPEG optimizado, que incluye un sistema de gestión de contenidos (CMS) inalámbrico y un conversor de video integrado en el navegador.
 
